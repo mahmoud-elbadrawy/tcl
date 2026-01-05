@@ -27,7 +27,7 @@ Run an example:
 
 ```bash
 # run an example script with the Tcl interpreter
-tclsh examples/example-01-hello-world.tcl
+tclsh examples/example-00-quickstart.tcl
 ```
 
 Each example should include a brief header comment explaining purpose and expected output.
