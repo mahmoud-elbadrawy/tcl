@@ -1,3 +1,10 @@
+# Tcl Notes
+
+This file contains the same notes, formatted for easy reading on GitHub. It includes basic syntax, variables, control structures, and example procedures.
+
+---
+
+```tcl
 # TCL Notes
 # This file contains notes and examples for TCL scripting.
 # It covers basic syntax, variables, control structures, and procedures.
@@ -36,3 +43,4 @@ proc greet {person} {
 greet "Alice"  ;# Calling the procedure with argument "Alice"
 greet "Bob"    ;# Calling the procedure with argument "Bob"
 # End of TCL Notes
+```
