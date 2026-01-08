@@ -1,6 +1,6 @@
 # Tcl Notes
 
-This file contains the same notes, formatted for easy reading on GitHub. It includes basic syntax, variables, control structures, and example procedures.
+This file contains notes, formatted for easy reading on GitHub. It includes basic syntax, variables, control structures, and example procedures.
 
 ---
 

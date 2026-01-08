@@ -1,6 +1,6 @@
 # Tcl Learning — Examples, Notes & Lessons ✨
 
-Welcome — a compact repository for learning and practicing Tcl (Tool Command Language). This repo focuses on short.
+Welcome — a compact repository for learning and practicing Tcl (Tool Command Language). This repo focuses on short, practical examples and notes to help you get started with Tcl scripting.
 
 **Author:** Mahmoud Elbadrawy — Embedded Software Engineer
 
